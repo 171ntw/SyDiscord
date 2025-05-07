@@ -1,0 +1,5 @@
+name: yDiscord
+version: '1.0'
+main: github.com.Main
+commands:
+  discord:
