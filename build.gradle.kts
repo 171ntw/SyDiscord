@@ -22,9 +22,8 @@ dependencies {
     implementation(kotlin("stdlib-jdk8"))
 }
 
-val targetJavaVersion = 17
 kotlin {
-    jvmToolchain(targetJavaVersion)
+    jvmToolchain(17)
 }
 
 tasks.build {
