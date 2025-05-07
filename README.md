@@ -29,4 +29,4 @@
 
    ```bash
    git clone https://github.com/171ntw/yDiscord.git
-   cd yDiscord#
+   cd yDiscord
