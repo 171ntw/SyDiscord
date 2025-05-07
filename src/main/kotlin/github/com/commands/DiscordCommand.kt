@@ -10,7 +10,6 @@ class DiscordCommand : CommandExecutor {
     override fun onCommand(sender: CommandSender, command: Command, label: String, args: Array<out String?>): Boolean {
         val onlyPlayers = "This command can only be used by players.";
 
-        sender.sendMessage("oii")
 
         if (sender is Player) {
             sender.sendMessage("${ChatColor.AQUA}Join our Discord: ${ChatColor.YELLOW}https://discord.gg/url");
