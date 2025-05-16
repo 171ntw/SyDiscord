@@ -1,6 +1,6 @@
-# yDiscord Plugin
+# SyDiscord Plugin
 
-**yDiscord** is a lightweight Minecraft plugin developed in Kotlin for Spigot 1.8.8. It provides a simple `/discord` command that sends a clickable Discord invite link to players.
+**SyDiscord** is a lightweight Minecraft plugin developed in Kotlin for Spigot 1.8.8. It provides a simple `/discord` command that sends a clickable Discord invite link to players.
 
 ---
 
@@ -28,5 +28,5 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/171ntw/yDiscord.git
-   cd yDiscord
+   git clone https://github.com/171ntw/SyDiscord.git
+   cd SyDiscord
